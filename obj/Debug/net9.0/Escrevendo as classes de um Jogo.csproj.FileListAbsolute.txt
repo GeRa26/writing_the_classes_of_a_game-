@@ -1,0 +1,14 @@
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\bin\Debug\net9.0\Escrevendo as classes de um Jogo.exe
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\bin\Debug\net9.0\Escrevendo as classes de um Jogo.deps.json
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\bin\Debug\net9.0\Escrevendo as classes de um Jogo.runtimeconfig.json
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\bin\Debug\net9.0\Escrevendo as classes de um Jogo.dll
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\bin\Debug\net9.0\Escrevendo as classes de um Jogo.pdb
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\obj\Debug\net9.0\Escrevendo as classes de um Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\obj\Debug\net9.0\Escrevendo as classes de um Jogo.AssemblyInfoInputs.cache
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\obj\Debug\net9.0\Escrevendo as classes de um Jogo.AssemblyInfo.cs
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\obj\Debug\net9.0\Escrevendo as classes de um Jogo.csproj.CoreCompileInputs.cache
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\obj\Debug\net9.0\Escrevendo as classes de um Jogo.dll
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\obj\Debug\net9.0\refint\Escrevendo as classes de um Jogo.dll
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\obj\Debug\net9.0\Escrevendo as classes de um Jogo.pdb
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\obj\Debug\net9.0\Escrevendo as classes de um Jogo.genruntimeconfig.cache
+C:\Users\geral\OneDrive\Área de Trabalho\Pasta do Dev\LOGICA DE PROG\FORMAÇÃO LP\Escrevendo as classes de um Jogo\obj\Debug\net9.0\ref\Escrevendo as classes de um Jogo.dll

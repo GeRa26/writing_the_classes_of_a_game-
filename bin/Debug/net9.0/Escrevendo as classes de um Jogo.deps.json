@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Escrevendo as classes de um Jogo/1.0.0": {
+        "runtime": {
+          "Escrevendo as classes de um Jogo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Escrevendo as classes de um Jogo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
